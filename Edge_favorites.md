@@ -209,7 +209,6 @@ Bookmarks
 
 [base:mc\_al \[Codebase64 wiki\]](https://codebase64.org/doku.php?id=base:mc_al#bg_-_part_one)
 
-[Indice di \\\\192.168.1.1\\TOSHIBA\_ExternalUSB30\_1\_2a72\\](file://192.168.1.1/TOSHIBA_ExternalUSB30_1_2a72/)
 
 [Fetch API | Guida Javascript | HTML.it](https://www.html.it/pag/66525/fetch-api/)
 
