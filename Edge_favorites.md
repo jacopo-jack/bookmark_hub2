@@ -5,13 +5,11 @@ Bookmarks
 
 ### Barra Preferiti
 
-[iLovePDF | Strumenti PDF online gratuiti](https://www.ilovepdf.com/it)
 
 [Disconnetti](https://login.microsoftonline.com/common/oauth2/v2.0/logout?post_logout_redirect_uri=https%3A%2F%2Fwww.office.com%2F&state=5Y1da-vZgbeMgEz95qGkiro4121zbZjhkToLaIV_13Hqtx20bNaD1CXsAjxHOcgFD14bf6uOiqaPdJtESxRKzRP6M6y2YF5vkGNVODTTi6VSxS493gy8k8lJsL30PX-M&x-client-SKU=ID_NETSTANDARD2_0&x-client-ver=6.12.1.0)
 
 [Cercare una melodia in un dizionario di temi musicali](http://bestclassicaltunes.com/dictionarypianoIT.aspx)
 
-[Posta in arrivo - jacopo.grimo@gmail.com - Gmail](https://mail.google.com/mail/u/0/?hl=it#inbox)
 
 [Offerte di lavoro - Magazziniere, Milano, Lombardia - marzo 2022 | Indeed.com](https://it.indeed.com/jobs?q=Magazziniere&l=Milano%2C%20Lombardia&vjk=067b2fe7307a13c4)
 
